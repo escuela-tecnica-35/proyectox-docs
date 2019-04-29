@@ -36,3 +36,10 @@ Nombres para el proyecto:
 - Compumundo hiper mega red
 - Musciopedia
 - MUERE THANOS (2 veces)
+- Tecni cueva
+- Tecni corp
+- Tecni org
+- Tecni club
+- Tecnicas STARK
+- Study Strategy Home
+- F
