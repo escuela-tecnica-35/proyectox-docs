@@ -42,18 +42,18 @@ Nombres para el proyecto:
 - Tecnicas STARK 4
 - Study Strategy Home 0
 - F 0
-- Oxum 
-- Oixum 13
-- Student technical association 
+- Oxum
+- Oixum 18
+- Student technical association
 - GET HUB
-- GET 
-- MAX-POWER 2 
-- FLEXO 
+- GET
+- MAX-POWER 2
+- FLEXO
 - señor thompson.dat
 - Exam+ 2
 - EL TONY PACK
 - flexgit
-- FOOTZIE 
+- FOOTZIE
 - PROYECT FOUR 1
--TrainGlex
+- TrainGlex
 - Learning Latzina
