@@ -42,3 +42,6 @@ Nombres para el proyecto:
 - Tecnicas STARK 2
 - Study Strategy Home 0
 - F 0
+- Oxum
+- Oixum
+-Student technical association
