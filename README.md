@@ -7,39 +7,38 @@ Los documentos propios de la feria también van acá (informe técnico, carpeta 
 
 Nombres para el proyecto:
 
-- Eduline
-- Proyecto if
-- help academy
-- Alumni hub
-- PEPE
-- TETO
-- school help
-- ETI proyect
-- Auxilium scolare
-- Alumni
-- Alumni data base
-- Eti proyect
-- Study club
-- Muscio's hub
+- Eduline  0 votos
+- Proyecto if 0 votos
+- help academy 0 votos
+- Alumni hub 0 votos
+- PEPE 0
+- TETO 2
+- school help 0
+- ETI proyect 1
+- Auxilium scolare 0
+- Alumni 0
+- Alumni data base 0
+- Study club 0
+- Muscio's hub 2
 - El rincón del alumno
 - El rincón técnico
 - La guarida técnica
 - La guarida enet
-- SAFE
-- Ultima hora
-- Kiwipedia
-- Oicsum
-- Músico
-- Etpedia
-- Pupilo técnico
-- Tecnipedia
-- Compumundo hiper mega red
-- Musciopedia
-- MUERE THANOS (2 veces)
-- Tecni cueva
-- Tecni corp
-- Tecni org
-- Tecni club
-- Tecnicas STARK
-- Study Strategy Home
-- F
+- SAFE 0
+- Ultima hora 0
+- Kiwipedia 3
+- Oicsum 5
+- Músico 0
+- Etpedia 0
+- Pupilo técnico 0
+- Tecnipedia 15
+- Compumundo hiper mega red 4
+- Musciopedia 0
+- MUERE THANOS (2 veces) 5
+- Tecni cueva 0
+- Tecni corp 0
+- Tecni org 0
+- Tecni club 0
+- Tecnicas STARK 2
+- Study Strategy Home 0
+- F 0
