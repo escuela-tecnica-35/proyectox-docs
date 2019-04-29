@@ -39,6 +39,21 @@ Nombres para el proyecto:
 - Tecni corp 0
 - Tecni org 0
 - Tecni club 0
-- Tecnicas STARK 2
+- Tecnicas STARK 4
 - Study Strategy Home 0
 - F 0
+- Oxum
+- Oixum 18
+- Student technical association
+- GET HUB
+- GET
+- MAX-POWER 2
+- FLEXO
+- señor thompson.dat
+- Exam+ 2
+- EL TONY PACK
+- flexgit
+- FOOTZIE
+- PROYECT FOUR 1
+- TrainGlex
+- Learning Latzina
