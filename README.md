@@ -47,7 +47,7 @@ Nombres para el proyecto:
 - Student technical association
 - GET HUB
 - GET
-- MAX-POWER 2
+- MAX-POWER 6
 - FLEXO
 - señor thompson.dat
 - Exam+ 2
@@ -56,4 +56,5 @@ Nombres para el proyecto:
 - FOOTZIE
 - PROYECT FOUR 1
 - TrainGlex
-- Learning Latzina
+- Learning Latzina 1
+-prise the sun 3
