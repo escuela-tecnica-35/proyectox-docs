@@ -5,6 +5,13 @@ Empezar a organizar y planificar el proyecto de acá al **5 de julio**.
 Dejo un documento que armé para obtener apoyo del rector en el proyecto.
 Los documentos propios de la feria también van acá (informe técnico, carpeta de campo y registro pedagógico).
 
+## Anuncios
+
+Agrego a Sampayo (4º1º), Panzitta (4º2º) y Arenas (4º3º) como dueños de la organización.
+Pueden agregar nuevos miembros ahora, usen sus nuevos poderes con responsabilidad.
+
+## Elección de nombres
+
 Nombres para el proyecto:
 
 - Eduline  0 votos
