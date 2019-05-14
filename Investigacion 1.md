@@ -16,3 +16,8 @@ Desventajas:
 _Nota del profesor:_ Ojo, que un LMS como Moodle no es exactamente lo que queremos construir (lo que se conoce como campus virtual). Ademas un LMS puede tener tambien funciones administrativas dentro de una escuela o institucion.
 Nosotros vamos en la linea de khan academy, duolingo, brilliant.org y otras.
 Son plataformas de E-Learning menos formales, en vez de hacer enfasis en los cursos se organizan por contenidos. Comparar por ejemplo la diferencia entre edx.org con khan academy. 
+
+Comparacion entre Edx y Khan Academy.
+Edx fue fundado por muchas universidades, permite el acceso a la educacion gratuita para cualquier person y cualquier parte del mundo, al igual que Khan Academy, solo que l diferencia entre ellos, es que Khan academy fue fundada por una persona y fue creciendo hasta tener como 150 personas trabajando y ayudando.
+
+_Nota del alumno_: por ahora encontre eso, seguire buscando. 
