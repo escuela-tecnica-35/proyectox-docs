@@ -1,0 +1,40 @@
+= Oixum
+
+_Nota:_ ver PMBOK 4.1 (seria el primer proceso de la gestion de proyectos). Necesitamos un documento similar para empezar a planificar. Dejo subtitulos con las cosas que deberia contener el documento.
+
+== Justificacion
+
+Ver caso de negocio.
+
+== Objetivos
+
+Que sean medibles y que se asocie el exito del proyecto a los mismos.
+
+== Requisitos
+
+Elaborar y analizar con un poco mas de detalle los objetivos. Que necesitamos hacer para cumplir los objetivos.
+
+== Supuestos y restricciones
+
+== Descripcion del alcance (preliminar)
+
+Breve descripcion de lo que hay que hacer y los entregables.
+
+== Cronograma de hitos (preliminar)
+
+Al menos aca ya sabemos las fechas para la feria.
+
+== Presupuesto (preliminar)
+
+Autoexplicativo.
+
+== Interesados o beneficiarios
+
+Autoexplicativo.
+
+== Equipo del proyecto
+
+La lista de todos nosotros y el nivel jerarquico de cada uno si aplicara.
+
+
+No tiene que estar todo necesariamente. Vean el PMBOK para sacar ideas de que pueden escribir ahi, vean tambien lo que escribi para el rector para justificar los gastos en ploteos.
