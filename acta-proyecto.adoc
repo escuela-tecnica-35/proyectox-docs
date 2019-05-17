@@ -8,7 +8,10 @@ Ver caso de negocio.
 
 == Objetivos
 
-Que sean medibles y que se asocie el exito del proyecto a los mismos.
+-Participar de la feria de ciencias 2019 en sus intancias regional,juridiccional y regional.
+-Desarrollar una aplicacion web de E-learning para uso interno de la escuela.
+-Fomentar la aplicacion de tecnologias web para asistir el dictado de clases en la escuela.
+-Fomentar el intercambio entre los alumnos que ejecuten el proyecto y los docentes de la escuela.
 
 == Requisitos
 
@@ -24,13 +27,13 @@ Breve descripcion de lo que hay que hacer y los entregables.
 
 Al menos aca ya sabemos las fechas para la feria.
 
-- 1 semana antes de la feria regional hay que imprimir la grafica para el stand y cerrar el informe tecnico
-- 5 de julio (feria regional)
-- 1 semana antes de la feria INNOVA hay que imprimir la grafica para el stand y cerrar el informe tecnico
+- (Viernes 28) ,hay que imprimir la grafica para el stand y cerrar el informe tecnico
+- (5 de julio) (feria regional)
+- Antes de la feria INNOVA (23 a 27 de septiembre), hay que imprimir la grafica para el stand y cerrar el informe tecnico
 - Ultima semana de septiembre (feria INNOVA)
-- 1 semana antes de la feria nacional hay que imprimir la grafica para el stand y cerrar el informe tecnico
+- Antes de la feria nacional (18 a 22 de noviembre) , hay que imprimir la grafica para el stand y cerrar el informe tecnico
 - Ultima semana de noviembre probablemente (feria nacional)
-- Primera semana de diciembre, socializacion del proyecto a toda la escuela y expectativas para el proximo año y grupo.
+- (Del 2 al 7 de Diciembre) , socializacion del proyecto a toda la escuela y expectativas para el proximo año y grupo.
 
 Planificamos como que llegamos a la ultima instancia, total el proyecto sigue hasta diciembre independientemente de la feria
 
@@ -44,6 +47,15 @@ Autoexplicativo.
 
 == Equipo del proyecto
 
+- Abella Juan.
+- Amigo Martin.
+- Caputo Mateo.
+- Delfino Tomas.
+- Espindola Marcos.
+- Rodriguez Facundo.
+- Magre Leonel.
+- Perree Matias.
+- Sanchez Agustin.
 La lista de todos nosotros y el nivel jerarquico de cada uno si aplicara.
 
 No tiene que estar todo necesariamente. Vean el PMBOK para sacar ideas de que pueden escribir ahi, vean tambien lo que escribi para el rector para justificar los gastos en ploteos.
