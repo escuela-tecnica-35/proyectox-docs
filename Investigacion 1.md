@@ -11,3 +11,8 @@ Khan academy sus ventajas y desventajas:
 
 Desventajas:
 - Pérdida de contacto con los profesores y compañeros.
+
+
+_Nota del profesor:_ Ojo, que un LMS como Moodle no es exactamente lo que queremos construir (lo que se conoce como campus virtual). Ademas un LMS puede tener tambien funciones administrativas dentro de una escuela o institucion.
+Nosotros vamos en la linea de khan academy, duolingo, brilliant.org y otras.
+Son plataformas de E-Learning menos formales, en vez de hacer enfasis en los cursos se organizan por contenidos. Comparar por ejemplo la diferencia entre edx.org con khan academy. 

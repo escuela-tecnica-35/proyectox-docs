@@ -7,3 +7,5 @@ El sistema interactivo y las premiaciones atrae a seguir aprendiendo.
 Tambien tiene una seccion diseñada para el aprendizaje en escuelas.
 Desventajas-
 Tiene anuncios, y para poder quitarlos se debe aportar dinero.
+
+_Nota del profesor:_ Duolingo es un buen ejemplo de la _gamificacion_ del aprendizaje, pueden ampliar este documento aportando distintos ejemplos y desarrollando esa idea. No es que nuestra aplicacion tenga que necesariamente apuntar a _gamificar_ el aprendizaje, pero es una posibilidad.
