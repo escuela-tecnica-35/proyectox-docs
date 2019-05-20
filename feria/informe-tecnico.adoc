@@ -1,0 +1,74 @@
+= Oixum -- Informe Tecnico
+el equipo de Oixum -- Escuela Tecnica Nº 35
+:toc: left
+:toc-title: Contenidos
+:imagesdir: img
+:icons: font
+:webfonts:
+:source-highlighter: pygments
+:experimental:
+:!figure-caption:
+:stem:
+
+NOTE: Dejo la estructura del informe, las secciones que deberia contener, este documento lo armamos entre todo y es necesario solo si participamos de la feria.
+Esta nota no va en el documento final por supuesto.
+
+== Resumen
+
+=== Origen
+
+=== Objetivos
+
+=== Participantes
+
+=== Metodo
+
+=== Costo
+
+=== Producto
+
+== Introduccion
+
+=== Justificacion
+
+=== Problema
+
+=== Solucion
+
+=== Objetivos
+
+== Desarrollo
+
+=== Metodologia
+
+=== Materiales
+
+=== Actividades
+
+==== Organizacion
+
+==== Investigacion
+
+==== Planificacion
+
+==== Diseño
+
+==== Desarrollo
+
+==== Lo que hicimos, etc.
+
+== Resultados y analisis
+
+=== Investigacion
+
+=== Oixum
+
+== Conclusiones
+
+== Agradecimientos
+
+== Bibliografia
+
+== Anexo I
+
+== Anexo II
