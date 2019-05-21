@@ -3,7 +3,7 @@
 _Nota:_ ver PMBOK 4.1 (seria el primer proceso de la gestion de proyectos). Necesitamos un documento similar para empezar a planificar. Dejo subtitulos con las cosas que deberia contener el documento.
 
 == Justificacion
-Lo que esperamos en esta feria de ciencias es los alumnos de 4 de todos los turnos pudan adquirir conocimientos del tema que les gusta y poder llevar el proyecto.La idea que tenemos es que podamos hacer una aplicacion, seria un sitio de 
+Lo que esperamos en esta feria de ciencias es los alumnos de 4 de todos los turnos pudan adquirir conocimientos del tema que les gusta y poder llevar el proyecto.La idea que tenemos es que podamos hacer una aplicacion, seria un sitio de
 E-LEARNING para nuestra escuela.El objetivo de esta aplicacion es brindar informacion en forma de videos,apuntes,ejercicios y entre otras cosas;
 ademas gente de todo el mundo puede acceder en cualquier horario para obtener material de clase.Pero se puede decir que la ventaja mas importante seria que la informacion que este en un curso no quede solo ahi sino que tambien puede ser interactuado con otros cursos.Con esta aplicacion no esperamos subtituir a los docentes sino que les sea util y la utilicen como una herramienta valiosa,y que ellos puedan brindar sus enseñanzas a otros alumnos.
 
@@ -48,15 +48,47 @@ Autoexplicativo.
 
 == Equipo del proyecto
 
-- Abella Juan.
-- Amigo Martin.
-- Caputo Mateo.
-- Delfino Tomas.
-- Espindola Marcos.
-- Rodriguez Facundo.
-- Magre Leonel.
-- Perree Matias.
-- Sanchez Agustin.
+- Abella Juan.1
+- Amigo Martin.2
+- Caputo Mateo.3
+- Delfino Tomas.4
+- Espindola Marcos.5
+- Rodriguez Facundo.6
+- Magre Leonel.7
+- Perree Matias.8
+- Sanchez Agustin.9
+- Lusnich Valentin.10
+- Sampayo Valentin.11
+- Garcia Santiago.12
+- Bordon Gabriel.13
+- Barrague Ezequiel.14
+- Perez Lucas.15
+- Granata Thiago.16
+- Martines Ian.17
+- Garabagno Facundo.18
+- Trosero Lautaro. 19
+- Fernandez Franco.20
+- Gantus Dante 21.
+- Forneron Lucia.22
+- Pastor Matias.23
+- Hernandez Gonzalo.
+- Sanchez Gajo.
+- Serpa Lucas.
+- Sanchez Nicolas.
+- Dumond Ignacio.
+- Blanco Nacho.
+- Safe Facundo.
+- Tenon Javier.
+- Miliani Juan Cruz.
+- Sauchella Agustin.
+- Vaca Alan.
+- Vaccaro Pablo.
+
+
+
+
+
+
 La lista de todos nosotros y el nivel jerarquico de cada uno si aplicara.
 
 No tiene que estar todo necesariamente. Vean el PMBOK para sacar ideas de que pueden escribir ahi, vean tambien lo que escribi para el rector para justificar los gastos en ploteos.
