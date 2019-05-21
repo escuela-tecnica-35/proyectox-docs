@@ -53,29 +53,29 @@ Autoexplicativo.
 
 == Equipo del proyecto
 
-- Abella Juan.1
-- Amigo Martin.2
-- Caputo Mateo.3
-- Delfino Tomas.4
-- Espindola Marcos.5
-- Rodriguez Facundo.6
-- Magre Leonel.7
-- Perree Matias.8
-- Sanchez Agustin.9
-- Lusnich Valentin.10
-- Sampayo Valentin.11
-- Garcia Santiago.12
-- Bordon Gabriel.13
-- Barrague Ezequiel.14
-- Perez Lucas.15
-- Granata Thiago.16
-- Martines Ian.17
-- Garabagno Facundo.18
-- Trosero Lautaro. 19
-- Fernandez Franco.20
-- Gantus Dante 21.
-- Forneron Lucia.22
-- Pastor Matias.23
+- Abella Juan.
+- Amigo Martin.
+- Caputo Mateo.
+- Delfino Tomas.
+- Espindola Marcos.
+- Rodriguez Facundo.
+- Magre Leonel.
+- Perree Matias.
+- Sanchez Agustin.
+- Lusnich Valentin.
+- Sampayo Valentin.
+- Garcia Santiago.
+- Bordon Gabriel.
+- Barrague Ezequiel.
+- Perez Lucas.
+- Granata Thiago.
+- Martines Ian.
+- Garabagno Facundo.
+- Trosero Lautaro.
+- Fernandez Franco.
+- Gantus Dante.
+- Forneron Lucia.
+- Pastor Matias.
 - Hernandez Gonzalo.
 - Sanchez Gajo.
 - Serpa Lucas.
