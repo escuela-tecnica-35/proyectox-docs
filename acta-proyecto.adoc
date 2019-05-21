@@ -3,20 +3,25 @@
 _Nota:_ ver PMBOK 4.1 (seria el primer proceso de la gestion de proyectos). Necesitamos un documento similar para empezar a planificar. Dejo subtitulos con las cosas que deberia contener el documento.
 
 == Justificacion
+
+NOTE: Ojo, aca confundis los objetivos mios (del profesor) con los del proyecto, el objetivo del proyecto es la app de e-learning, no lo que yo espero de mis alumnos, porque claramente no son objetivos de los alumnos. Lo digo por la primer oracion claro. Ademas estas mezclando objetivos con justificacion mas abajo.
+
 Lo que esperamos en esta feria de ciencias es los alumnos de 4 de todos los turnos pudan adquirir conocimientos del tema que les gusta y poder llevar el proyecto.La idea que tenemos es que podamos hacer una aplicacion, seria un sitio de
 E-LEARNING para nuestra escuela.El objetivo de esta aplicacion es brindar informacion en forma de videos,apuntes,ejercicios y entre otras cosas;
 ademas gente de todo el mundo puede acceder en cualquier horario para obtener material de clase.Pero se puede decir que la ventaja mas importante seria que la informacion que este en un curso no quede solo ahi sino que tambien puede ser interactuado con otros cursos.Con esta aplicacion no esperamos subtituir a los docentes sino que les sea util y la utilicen como una herramienta valiosa,y que ellos puedan brindar sus enseñanzas a otros alumnos.
 
 == Objetivos
 
--Participar de la feria de ciencias 2019 en sus intancias regional,juridiccional y regional.
--Desarrollar una aplicacion web de E-learning para uso interno de la escuela.
--Fomentar la aplicacion de tecnologias web para asistir el dictado de clases en la escuela.
--Fomentar el intercambio entre los alumnos que ejecuten el proyecto y los docentes de la escuela.
+- Participar de la feria de ciencias 2019 en sus intancias regional,juridiccional y regional.
+- Desarrollar una aplicacion web de E-learning para uso interno de la escuela.
+- Fomentar la aplicacion de tecnologias web para asistir el dictado de clases en la escuela.
+- Fomentar el intercambio entre los alumnos que ejecuten el proyecto y los docentes de la escuela.
 
 == Requisitos
 
 Elaborar y analizar con un poco mas de detalle los objetivos. Que necesitamos hacer para cumplir los objetivos.
+
+NOTE: Avanzar con esta seccion urgente, aca pueden listar las funciones de la aplicacion, lo que en la jerga nuestra serian los requisitos funcionales. Por ejemplo: la app tiene que tener autenticacion para alumnos y profesores, la app tiene que poder guardar el progreso de los alumnos, etc.
 
 == Supuestos y restricciones
 
