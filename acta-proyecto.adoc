@@ -6,9 +6,9 @@ _Nota:_ ver PMBOK 4.1 (seria el primer proceso de la gestion de proyectos). Nece
 
 NOTE: Ojo, aca confundis los objetivos mios (del profesor) con los del proyecto, el objetivo del proyecto es la app de e-learning, no lo que yo espero de mis alumnos, porque claramente no son objetivos de los alumnos. Lo digo por la primer oracion claro. Ademas estas mezclando objetivos con justificacion mas abajo.
 
-Lo que esperamos en esta feria de ciencias es los alumnos de 4 de todos los turnos pudan adquirir conocimientos del tema que les gusta y poder llevar el proyecto.La idea que tenemos es que podamos hacer una aplicacion, seria un sitio de
+La idea que tenemos es que podamos hacer una aplicacion, seria un sitio de
 E-LEARNING para nuestra escuela.El objetivo de esta aplicacion es brindar informacion en forma de videos,apuntes,ejercicios y entre otras cosas;
-ademas gente de todo el mundo puede acceder en cualquier horario para obtener material de clase.Pero se puede decir que la ventaja mas importante seria que la informacion que este en un curso no quede solo ahi sino que tambien puede ser interactuado con otros cursos.Con esta aplicacion no esperamos subtituir a los docentes sino que les sea util y la utilicen como una herramienta valiosa,y que ellos puedan brindar sus enseñanzas a otros alumnos.
+ademas gente de todo el mundo puede acceder en cualquier horario para obtener material de clase.Pero se puede decir que la ventaja mas importante seria que la informacion que este en un curso no quede solo ahi sino que tambien puede ser interactuado con otros cursos.
 
 == Objetivos
 
