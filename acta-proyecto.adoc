@@ -25,6 +25,25 @@ NOTE: Avanzar con esta seccion urgente, aca pueden listar las funciones de la ap
 
 == Descripcion del alcance (preliminar)
 
+NOTE: Estoy es muy preliminar, agrego ideas.
+
+Entregables del proyecto: 
+
+- Una app web version movil (iOS y Android con React-Native) y version navegador (hecha con React en un futuro). Todo esto es el frontend.
+- Un backend para la app: base de datos y API REST en nodejs y Express. Base de datos en mongoDB probablemente por facilidad. La base de datos maneja los usuarios y su progreso, como los contenidos en texto. Los videos hosteados en Youtube.
+- Contenidos para la app (videos, diapositivas, ejercicios interactivos y mini apuntes).
+- Una investigacion que justifique el enfoque que le dimos a la pagina (esto es mas por la competencia de la feria).
+
+Requisitos:
+
+- La app movil debe dejar bajar los contenidos para su uso offline.
+- La app web debe ser _responsive_
+- Debe haber contenidos de al menos dos materias antes de fin de año
+- Frontend: debe haber pagina de login, de registro, principal claro, de contenidos y las que se necesiten para info extra como contacto, sobre nosotros, etc.
+- La app movil puede prescindir de paginas institucionales o del proyecto.
+
+
+
  - Pagina de inicio.
  - Contenido basico de las materias a enseñar.
  - Pagina de Logueo y registro.
