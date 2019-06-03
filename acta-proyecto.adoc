@@ -25,7 +25,9 @@ NOTE: Avanzar con esta seccion urgente, aca pueden listar las funciones de la ap
 
 == Descripcion del alcance (preliminar)
 
-Breve descripcion de lo que hay que hacer y los entregables.
+ - Pagina de inicio.
+ - Contenido basico de las materias a enseñar.
+ - Pagina de Logueo y registro.
 
 == Cronograma de hitos (preliminar)
 
