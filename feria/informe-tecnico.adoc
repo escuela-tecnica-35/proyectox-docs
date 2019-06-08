@@ -29,13 +29,24 @@ Esta nota no va en el documento final por supuesto.
 
 == Introduccion
 
-=== Justificacion
+=== Justificación
+Vivimos en tiempos donde los alumnos organizan su vida de otra manera, se pasa menos tiempo dentro de las instituciones educativas y mucho más en los hogares o en el exterior.
+La velocidad a la que transcurre la agenda de los estudiantes modernos cada vez reduce más y más el tiempo disponible para asistir a clases a contraturno, obtener material de estudio de compañeros o incluso para sentarse a practicar en papel y lapicera.
+El tiempo y la voluntad de estudiar y aprender existe, pero los colegios no pueden adaptarse a los horarios específicos de sus alumnos para proveerles clases de apoyo o recuperación a cada uno.
+Esto puede ser solucionado si se le crea una herramienta disponible para ellos en cualquier momento del día, en cualquier lugar, de uso fácil tanto para los estudiantes como para los docentes. 
 
 === Problema
+Al faltar un alumno a clases, independientemente de la razón, se pierde la explicación de contenidos de la materia que no pueden ser recuperados completamente. De la misma manera, cuando un profesor no puede impartir clases también se pierde contenido; tiempo de clase que se recupera a medias, en un intento (a veces exitoso) de comprimir las lecciones en el tiempo de clase dado.
 
-=== Solucion
+Si bien a estos problemas se le encuentran soluciones tales como asistir a horas de apoyo a contraturno, profesores particulares, carpetas de compañeros y demás, existen diversas complicaciones que impiden aprovechar dichas oportunidades de manera parcial o completa.
+
+=== Solución
+La solución que ofrecemos al problema planteado es dinámica y moderna,  adaptándose a las costumbres y necesidades de los alumnos de nuestro tiempo, que obtienen y utilizan información en cualquier lugar en cuestión de segundos a través de dispositivos móviles, computadoras, y otros dispositivos electrónicos.
+Nuestro objetivo es crear una plataforma de E-Learning (Aprendizaje web) a la que los alumnos puedan acceder en los momentos que encuentren oportunos, llevando una fuente de aprendizaje simple y confiable a los alumnos, complementando las lecciones impartidas en el aula y apoyando al estudiante en el proceso de aprendizaje.
 
 === Objetivos
+Desarrollar una plataforma online confiable, respaldada por el colegio, que genere contenido de estudio útil, fácilmente actualizable, y de acceso simple por parte de la comunidad educativa. 
+Nuestra institución cuenta con un portal en el cual podemos descargar apuntes cargados por los profesores, el cual reduce la carga de trabajo en los profesores y los estudiantes utilizan fácilmente. Nosotros apuntamos a dar el siguiente paso, ofreciendo un lugar donde no subir solo apuntes, sino además subir explicaciones, ejercicios y modelos de exámenes que interactúen con el alumno y lo acompañen en el proceso de aprendizaje.
 
 == Desarrollo
 
