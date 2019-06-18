@@ -10,7 +10,8 @@ el equipo de Oixum -- Escuela Tecnica Nº 35
 :!figure-caption:
 :stem:
 
-NOTE: Dejo la estructura del informe, las secciones que deberia contener, este documento lo armamos entre todo y es necesario solo si participamos de la feria.
+NOTE: Dejo la estructura del informe, las secciones que deberia contener,
+este documento lo armamos entre todo y es necesario solo si participamos de la feria.
 Esta nota no va en el documento final por supuesto.
 
 == Resumen
@@ -18,8 +19,46 @@ Esta nota no va en el documento final por supuesto.
 === Origen
 
 === Objetivos
+- Participar de la feria de ciencias 2019 en sus intancias regional,juridiccional y regional.
+- Desarrollar una aplicacion web de E-learning para uso interno de la escuela.
+- Fomentar la aplicacion de tecnologias web para asistir el dictado de clases en la escuela.
+- Fomentar el intercambio entre los alumnos que ejecuten el proyecto y los docentes de la escuela.
 
 === Participantes
+- Abella Juan. (4to 1era)
+- Amigo Martin. (4to 1era)
+- Caputo Mateo.  (4to 1era)
+- Delfino Tomas.  (4to 1era)
+- Espindola Marcos.  (4to 1era)
+- Rodriguez Facundo. (4to 1era)
+- Magre Leonel.  (4to 1era)
+- Perree Matias.  (4to 1era)
+- Sanchez Agustin.  (4to 1era)
+- Lusnich Valentin.  (4to 1era)
+- Sampayo Valentin.  (4to 1era)
+- Garcia Santiago.  (4to 1era)
+- Bordon Gabriel.  (4to 1era)
+- Barrague Ezequiel.  (4to 1era)
+- Perez Lucas.  (4to 1era)
+- Granata Thiago.  (4to 1era)
+- Martines Ian.  (4to 1era)
+- Garabagno Facundo.  (4to 1era)
+- Trosero Lautaro.  (4to 1era)
+- Fernandez Franco.  (4to 1era)
+- Gantus Dante.  (4to 1era)
+- Forneron Lucia.  (4to 1era)
+- Pastor Matias.  (4to 1era)
+- Hernandez Gonzalo.  (4to 1era)
+- Serpa Lucas.  (4to 1era)
+- Sanchez Nicolas.  (4to 1era)
+- Dumond Ignacio.  (4to 1era)
+- Blanco Nacho.  (4to 1era)
+- Safe Facundo.  (4to 1era)
+- Tenon Javier.  (4to 1era)
+- Miliani Juan Cruz.  (4to 1era)
+- Sauchella Agustin.  (4to 1era)
+- Vaca Alan.  (4to 1era)
+- Vaccaro Pablo.  (4to 1era)
 
 === Metodo
 
@@ -33,20 +72,28 @@ Esta nota no va en el documento final por supuesto.
 Vivimos en tiempos donde los alumnos organizan su vida de otra manera, se pasa menos tiempo dentro de las instituciones educativas y mucho más en los hogares o en el exterior.
 La velocidad a la que transcurre la agenda de los estudiantes modernos cada vez reduce más y más el tiempo disponible para asistir a clases a contraturno, obtener material de estudio de compañeros o incluso para sentarse a practicar en papel y lapicera.
 El tiempo y la voluntad de estudiar y aprender existe, pero los colegios no pueden adaptarse a los horarios específicos de sus alumnos para proveerles clases de apoyo o recuperación a cada uno.
-Esto puede ser solucionado si se le crea una herramienta disponible para ellos en cualquier momento del día, en cualquier lugar, de uso fácil tanto para los estudiantes como para los docentes. 
+Esto puede ser solucionado si se le crea una herramienta disponible para ellos en cualquier momento del día, en cualquier lugar, de uso fácil tanto para los estudiantes como para los docentes.
 
 === Problema
-Al faltar un alumno a clases, independientemente de la razón, se pierde la explicación de contenidos de la materia que no pueden ser recuperados completamente. De la misma manera, cuando un profesor no puede impartir clases también se pierde contenido; tiempo de clase que se recupera a medias, en un intento (a veces exitoso) de comprimir las lecciones en el tiempo de clase dado.
+ Al faltar un alumno a clases, independientemente de la razón, se pierde la explicación de contenidos de la materia que no pueden ser recuperados completamente. De la misma manera, cuando un profesor no puede impartir clases también se pierde contenido; tiempo de clase que se recupera a medias, en un intento (a veces exitoso) de comprimir las lecciones en el tiempo de clase dado.
 
-Si bien a estos problemas se le encuentran soluciones tales como asistir a horas de apoyo a contraturno, profesores particulares, carpetas de compañeros y demás, existen diversas complicaciones que impiden aprovechar dichas oportunidades de manera parcial o completa.
+ Si bien a estos problemas se le encuentran soluciones tales como asistir a horas de apoyo a contraturno, profesores particulares, carpetas de compañeros y demás, existen diversas complicaciones que impiden aprovechar dichas oportunidades de manera parcial o completa.
 
 === Solución
-La solución que ofrecemos al problema planteado es dinámica y moderna,  adaptándose a las costumbres y necesidades de los alumnos de nuestro tiempo, que obtienen y utilizan información en cualquier lugar en cuestión de segundos a través de dispositivos móviles, computadoras, y otros dispositivos electrónicos.
-Nuestro objetivo es crear una plataforma de E-Learning (Aprendizaje web) a la que los alumnos puedan acceder en los momentos que encuentren oportunos, llevando una fuente de aprendizaje simple y confiable a los alumnos, complementando las lecciones impartidas en el aula y apoyando al estudiante en el proceso de aprendizaje.
+ La solución que ofrecemos al problema planteado es dinámica y moderna,  adaptándose a las costumbres y necesidades de los alumnos
+de nuestro tiempo, que obtienen y utilizan información en cualquier lugar en cuestión de segundos a través de dispositivos móviles,
+computadoras, y otros dispositivos electrónicos.
+ Nuestro objetivo es crear una plataforma de E-Learning (Aprendizaje web) a la que los alumnos puedan acceder en los momentos que
+encuentren oportunos, llevando una fuente de aprendizaje simple y confiable a los alumnos, complementando las lecciones impartidas
+en el aula y apoyando al estudiante en el proceso de aprendizaje.
 
 === Objetivos
-Desarrollar una plataforma online confiable, respaldada por el colegio, que genere contenido de estudio útil, fácilmente actualizable, y de acceso simple por parte de la comunidad educativa. 
-Nuestra institución cuenta con un portal en el cual podemos descargar apuntes cargados por los profesores, el cual reduce la carga de trabajo en los profesores y los estudiantes utilizan fácilmente. Nosotros apuntamos a dar el siguiente paso, ofreciendo un lugar donde no subir solo apuntes, sino además subir explicaciones, ejercicios y modelos de exámenes que interactúen con el alumno y lo acompañen en el proceso de aprendizaje.
+Desarrollar una plataforma online confiable, respaldada por el colegio, que genere contenido de estudio útil,
+fácilmente actualizable, y de acceso simple por parte de la comunidad educativa.
+ Nuestra institución cuenta con un portal en el cual podemos descargar apuntes cargados por los profesores, el cual reduce la
+carga de trabajo en los profesores y los estudiantes utilizan fácilmente. Nosotros apuntamos a dar el siguiente paso,
+ofreciendo un lugar donde no subir solo apuntes, sino además subir explicaciones, ejercicios y modelos de exámenes que
+interactúen con el alumno y lo acompañen en el proceso de aprendizaje.
 
 == Desarrollo
 
@@ -59,6 +106,8 @@ Nuestra institución cuenta con un portal en el cual podemos descargar apuntes c
 ==== Organizacion
 
 ==== Investigacion
+
+
 
 ==== Planificacion
 
