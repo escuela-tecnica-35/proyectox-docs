@@ -15,8 +15,17 @@ este documento lo armamos entre todo y es necesario solo si participamos de la f
 Esta nota no va en el documento final por supuesto.
 
 == Resumen
+Estamos creando una página web en la cual los estudiantes de la escuela técnica 35
+Puedan tener apoyo en las materias del respectivo colegio, así , para aprender,
+Para entenderlo mejor , e incluso contando con la futura participación de docentes
+De la escuela.
 
 === Origen
+Se originó con la idea de ayudar y apoyar a los alumnos de la escuela en las materias
+Que tengan más dificultad e necesitan tener alguien que les explique.
+Para eso(gracias al profesor Santiago Trini) propuso la idea de ser el guía/ecabezado
+De este proyecto , trabajando así en las distintas ramas que se necesitan para llegar
+Avanzar con nuestra página web.
 
 === Objetivos
 - Participar de la feria de ciencias 2019 en sus intancias regional,juridiccional y regional.
@@ -116,7 +125,8 @@ El tiempo y la voluntad de estudiar y aprender existe, pero los colegios no pued
 Esto puede ser solucionado si se le crea una herramienta disponible para ellos en cualquier momento del día, en cualquier lugar, de uso fácil tanto para los estudiantes como para los docentes.
 
 === Problema
- Al faltar un alumno a clases, independientemente de la razón, se pierde la explicación de contenidos de la materia que no pueden ser recuperados completamente. De la misma manera, cuando un profesor no puede impartir clases también se pierde contenido; tiempo de clase que se recupera a medias, en un intento (a veces exitoso) de comprimir las lecciones en el tiempo de clase dado.
+ Al faltar un alumno a clases, independientemente de la razón, se pierde la explicación de contenidos de la materia que no pueden ser recuperados completamente. De la misma manera, cuando un profesor no puede impartir clases también se pierde contenido; 
+tiempo de clase que se recupera a medias, en un intento (a veces exitoso) de comprimir las lecciones en el tiempo de clase dado.
 
  Si bien a estos problemas se le encuentran soluciones tales como asistir a horas de apoyo a contraturno, profesores particulares, carpetas de compañeros y demás, existen diversas complicaciones que impiden aprovechar dichas oportunidades de manera parcial o completa.
 
@@ -152,7 +162,8 @@ interactúen con el alumno y lo acompañen en el proceso de aprendizaje.
 ==== Organizacion
 
 ==== Investigacion
-
+Los alumnos investigaron de la educacion a distancia que se denomina
+E-learning
 
 
 ==== Planificacion
