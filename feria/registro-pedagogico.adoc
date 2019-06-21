@@ -15,55 +15,81 @@ Santiago Trini - Escuela Tecnica Nº 35
 == Orígenes del proyecto
 
 Este proyecto surge como una idea mía de trabajar a lo largo del año con un sólo proyecto en las tres divisiones de cuarto año computación.
-Hace dos años que soy profesor de Proyecto Informático I en la Escuela Técnica Nº 35 y una de las dificultades que se me presentaron al dar la materia es que el programa no está definido de manera muy clara.
-Se entiende que hay un núcleo duro de la asignatura que tiene que ver con la gestión y dirección de proyectos, pero qué tipo de proyecto encarar no está bien definido.
+Este es ya mi tercer año como profesor de Proyecto Informático I en la Escuela Técnica Nº 35 en las tres divisiones.
+Y una de las dificultades que se me presentaron al dar la materia es que el programa no está definido de manera muy clara.
+Se entiende que hay un núcleo duro de la asignatura que tiene que ver con la gestión y dirección de proyectos, pero qué tipo de proyecto o proyectos encarar no está bien definido.
+
 En el año 2018 participé con alumnos de sexto año en las Olimpíadas de Programación organizadas por el INET.
 En las charlas que tuve con los alumnos participantes y en la posterior entrega de diplomas de fin de año estos alumnos me dejaron en claro una cosa, la escuela no está formando en habilidades y conocimientos de desarrollo web.
 Y estoy de acuerdo, de hecho no hay un lugar bien definido en la currícula para estos contenidos.
+
 Hablando con otros profesores de la especialidad computación de otras escuelas, decidí también agregar una herramienta de gestión de código fuente.
 Específicamente Git, ya que es un estándar en la industria del software, para la cuál formamos a los futuros técnicos.
+
 Por estos motivos este año decidí cambiar el programa de mi asignatura y orientarlo hacia desarrollo web, pensando en el futuro laboral de los egresados de nuestra escuela, y en las falencias mismas de nuestra institución.
+
 Por otro lado ya tenía la idea hace un par de años de realizar una aplicación web de aprendizaje online para la escuela.
 Algo similar a Khan Academy o Duolingo, pero con los contenidos propios de las materias de nuestro plan de estudios, ajustados a la medida de nuestra institución.
 El proyecto que propongo realizar a lo largo del año es una aplicación web.
 Una aplicación web de _e-learning_.
 Este proyecto comienza este año, pero probablemente no termine hasta dentro de varios años más.
 Es un intento de generar una herramienta didáctica hecha a la medida de nuestra institución.
+
 Una aplicación de este tipo trae un doble beneficio.
 Libera al profesor de tareas repetitivas para enfocarse en las dificultades específicas de cada alumno.
 Provee al alumno de material interactivo, algo que no es posible con un apunte tradicional.
+
 La forma de trabajo ideal se debe acercar lo más posible al desarrollo web tal como sucede en el mundo laboral, la organización y planificación del proyecto se intenta hacer siguiendo los lineamientos y estándares reconocidos de gestión de proyectos.
+
 Idealmente se espera que todos los alumnos de las tres divisiones de cuarto año computación, que me tienen como profesor en la asignatura Proyecto Informático, aporten su granito de arena al proyecto teniendo en cuenta las debilidades y fortalezas de cada uno.
 
 == Propuesta didáctica
 
 La propuesta es trabajar en un sólo proyecto en las tres divisiones de cuarto año, a lo largo de todo el año.
-El proyecto tiene que requerir las habilidades y conocimientos desarrollados a lo largo del año, según el programa de la materia.
+El proyecto tiene que requerir las habilidades y conocimientos desarrollados a lo largo del año, según el programa de la materia, que dejo como anexo a este registro.
+
 Además el proyecto tiene que ser útil para la institución educativa.
 De esta manera es más fácil que los alumnos muestren interés por el mismo.
 El proyecto es una instancia más de evaluación, y las contribuciones de los alumnos son registradas con el mayor detalle posible.
 Se intenta que la mayoría de los alumnos participen activamente del proyecto a lo largo del año.
 
 La consigna, tal como se presentó el primer día de clase de este año, es realizar un clon de Khan Academy, pero con los contenidos específicos de la escuela.
-
 Pero soy realista, y sé que el armado de los contenidos de todas las materias lleva tiempo.
 Además queremos que los contenidos estén acordados con los profesores que dictan las asignaturas.
+
 Siendo optimista, creo que podemos tener un prototipo funcional de la aplicación para este primer año del proyecto.
 Con un número muy pequeño de contenidos ya cargados a la aplicación.
 Con el tiempo iremos avanzando en cubrir la totalidad de la currícula.
 
 === Idea rectora
 
-Oixum es una aplicación web de _e-learning_. La idea es brindar una herramienta donde los profesores puedan aportar contenidos para sus asignaturas en forma de videos, diapositivas y apuntes. Además la aplicación debe permitir el registro de los alumnos y proveer ejercicios interactivos para cada contenido, guardando el progreso sobre los mismos.
+Oixum es una aplicación web de _e-learning_. La idea es brindar una herramienta donde los profesores puedan aportar contenidos para sus asignaturas en forma de videos, diapositivas y apuntes. Además la aplicación debe permitir el registro de los alumnos y proveer ejercicios interactivos para cada contenido, guardando el progreso sobre los mismos y permitiendo el monitoreo de cada alumno de manera rápida y sencilla por sus profesores.
 
 === Formación del equipo de trabajo
 
-El equipo de trabajo es idealmente la totalidad de las tres divisiones de cuarto año. Los alumnos se organizan dentro del aula para trabajar en distintos componentes del proyecto, y los más activos organizan la comunicación entre las tres divisiones.
+El equipo de trabajo es, idealmente, la totalidad de las tres divisiones de cuarto año. Los alumnos se organizan dentro del aula para trabajar en distintos componentes del proyecto, y los más activos organizan la comunicación entre las tres divisiones. Este año en total tenemos 97 alumnos entre las tres divisiones.
 
-La lista de alumnos de cuarto año computación 2019 es la siguiente:
+La lista de alumnos de cuarto año computación que vienen participando activamente en el proyecto es la siguiente.
 
+- Ramiro Spano
+- Facundo Abadi
+- Carolina Jimenez
+- Gustavo Panzitta
+- Lucia Forneron
+- Valentin Sampayo
+- Facundo Rodriguez
+- Mateo Caputo
+- Ignacio Blanco
+- Lucas Serpa
+- Franco Fernandez
+- Agustin Sanchez
+- Matias Pastor
+- Francisco Mendoza
+- Nicolas Cingolani
+- Varinia Quisbert
+- Dylan Toscano
 
-Además se dieron
+Además se encargó en las divisiones del turno diurno a algunos alumnos la responsabilidad y la autoridad para organizar las distintas áreas, que por ahora son diseño, desarrollo, investigación y planificación.
 
 === Contenidos curriculares
 
@@ -119,7 +145,7 @@ Como es evidente que necesitamos computadoras para realizar la mayor parte del p
 
 image::labos-moviles.jpg[pdfwidth=70%, align=center]
 
-Para este proyecto contamos con la colaboración del Rector y de la Asociación Cooperadora, lo que nos permite tener tres carros con 18 netbooks para trabajar al momento de esta primera instancia de feria.
+Para este proyecto contamos con la colaboración del Rector, de la Asociación Cooperadora y de la sección carpintería del taller. Esto nos permite tener tres carros con 18 netbooks para trabajar al momento de esta primera instancia de feria.
 
 === Semana del 22/04
 
@@ -127,9 +153,14 @@ Esta semana empezamos a proponer nombres para el proyecto en las tres divisiones
 
 === Semana del 29/04
 
-Para esta semana ya voy terminando con la exposición y práctica de la unidad 2 del programa. Se supone que los alumnos tienen alguna idea de como manejarse con Git y GitHub, lo cuál es demasiado optimista. El lunes 29 creo una organización en GitHub a la cual invito a los alumnos para que trabajemos ahí sobre el proyecto.
+Para esta semana ya voy terminando con la exposición y práctica de la unidad 2 del programa. Se supone que los alumnos tienen alguna idea de como manejarse con Git y GitHub, lo cuál resulta ser demasiado optimista.
+
+El lunes 29 creo una organización en GitHub a la cual invito a los alumnos para que trabajemos ahí sobre el proyecto.
 Creo los dos primeros repositorios, uno para el código del sitio y otro para la documentación. Votamos en las tres divisiones el nombre del proyecto y lo dejamos registrados en el repositorio de documentación.
-Se termina imponiendo Oixum como nombre y les pido a los alumnos que vayan pensando un logo para el proyecto y que a partir de ahora, comenzaremos a prototipar la interfaz de usuario de la aplicación.
+
+Se termina imponiendo Oixum como nombre del proyecto y les pido a los alumnos que vayan pensando un logo para el proyecto y que a partir de ahora, comenzaremos a prototipar la interfaz de usuario de la aplicación.
+
+Para el tema del logo se abre un _pull request_ en el repositorio que todavía sigue abierto. Aquí se evidencia claramente que los alumnos tienen problemas para realizar una puesta en común, ya que muchos aportan ideas pero no se arma un ida y vuelta en la discusión.
 
 También se les pide a los alumnos que comiencen a pensar la planificación del proyecto, al menos un acta donde se resuman los objetivos y el alcance de manera preliminar.
 
@@ -138,6 +169,8 @@ También se les pide a los alumnos que comiencen a pensar la planificación del 
 Se comienza con la unidad 3 en el aula: HTML y CSS. Algunos alumnos empiezan a traer desde sus casas ideas ya en código de lo que sería la _landing page_ de la aplicación.
 
 Se realizan aportes a los repositorios pero no al ritmo deseado.
+
+La planificación del proyecto también avanza lentamente, no tenemos nada cercano a una lista de actividades.
 
 === Semana del 13/05
 
@@ -151,19 +184,27 @@ Continúa el trabajo sobre el prototipo de interfaz de usuario, casi exclusivame
 
 El jueves se realiza un primer taller de diseño gráfico y comunicación visual a cargo de la profesora Rocío. Asiste un buen número de alumnos fuera de horario ya que la profesora cumple su horario en el turno noche.
 
+Realizo algunas intervenciones sobre el acta del proyecto para intentar motivar el avance en la planificación.
+
 === Semana del 27/05
 
 Esta semana realizo una evaluación escrita de la unidad 2 y es evidente que los alumnos necesitan más tiempo para familiarizarse con Git y GitHub.
 
 Continúa el trabajo en el proyecto y se pacta un nuevo encuentro con la profesora Rocío para la semana siguiente.
 
+Agrego los materiales que me pasa Rocío sobre diseño gráfico al repositorio del proyecto.
+
 === Semana del 03/06
 
 Esta semana se realizan dos encuentros, el lunes y el jueves con la profesora Rocío. El área de diseño gráfico del proyecto comienza a tomar rumbo el jueves y se comienzan a poner criterios en común entre los alumnos más comprometidos con el tema.
 
+Realizo algunas anotaciones en los documentos de planificación para clarificar algunos puntos sobre la misma.
+
+Se realizan las primeras contribuciones al informe técnico.
+
 === Semana del 10/06
 
-El lunes se realiza una presentación a cargo de los responsables del diseño gráfico para decidir sobre los colores y logo de la web. Se evidencias claras diferencias entre los alumnos y la discusión se estanca.
+El lunes se realiza una presentación a cargo de los responsables del diseño gráfico para decidir sobre los colores y logo de la web. Se evidencian claras diferencias entre los alumnos y la discusión se estanca.
 
 image::rueda-color.jpg[pdfwidth=70%, align=center]
 
